@@ -19,11 +19,11 @@ So this approach didn't work for me. However my friend's patch is reportedly hol
 ## The extreme option:
 
 Materials and tools:
-4 [Plastic Reducer Fittings - 3/8" to 1/4"](https://www.amazon.ca/dp/B099RVBQC6)
-2 [Plastic Union - 1/4" to 1/4"](https://www.amazon.ca/dp/B099ZVH6VP)
-[Cable Tie Tensioning Gun](https://www.amazon.ca/dp/B08FR639VX)
-4 [Silicone Tubing 26.25ft](https://www.amazon.ca/dp/B08FJ9TTQV)
-Xacto Knife or similar
+- [Plastic Reducer Fittings - 3/8" to 1/4" - 4 pcs](https://www.amazon.ca/dp/B099RVBQC6)
+- [Plastic Union - 1/4" to 1/4" - 2 pcs](https://www.amazon.ca/dp/B099ZVH6VP)
+- [Cable Tie Tensioning Gun](https://www.amazon.ca/dp/B08FR639VX)
+- [Silicone Tubing 26.25ft - 4 lengths](https://www.amazon.ca/dp/B08FJ9TTQV)
+- Xacto Knife or similar
 
 The plan: to replace the leak-prone grid system with a continuous loop of silicone tubing.
 
@@ -110,6 +110,8 @@ The extra loops of purple zip ties in the photo above are being used to suspend 
 
 Most noticeable visual change:
 ![](attachments/Pasted_image_20230925231548.png)
+
+## Verdict
 End result: Pretty good! The most noticeable part is covered by your pillows. There is a noticeable ridge down the centerline of the bed, where 2 to 4 lines converge. Removing the center strip of the grid material from the mattress will likely help this a lot.
 
 At this point, nothing has been stitched back together. The new tubes are just held in place by gravity and rest in their foam channels. 1 month later and they haven't even shifted from their original placement. There is a non-zero chance that this "temporary" arrangement of mine will become permanent. I have the original type of mattress encasement provided by eightsleep, which provides a zipper attachment all around the mattress. This zipper has been enough to hold the top fabric firmly and prevent anything from moving.
@@ -119,9 +121,10 @@ When I'm ready to make this solution permanent, I intend to stitch small loops o
 When all is said and done, I can then stitch the outer perimeter of the topper back together and will hopefully have a complete mattress topper.
 
 
-Notes/findings:
+### Notes/findings:
 - The eightsleep hub has no monitoring of the water flow outside of the hub itself. As far as the hardware or software is concerned, nothing has changed.
 - I was concerned about the possible water pressure being supplied by the hub. I haven't taken any pressure measurements, but even the internal plumbing fittings within the hub are using barbed connectors + zip ties. The pumps are very small, so I don't believe they can build up enough pressure to pop any of the fittings off.
+- I was also concerned that with a single loop design, your body weight could pinch the tubing and completely stop the flow of water. Either stopping the cooling, or in the worst-case, causing pressure to build and pop the fittings loose. I have tried crushing the tubing between my thumb and fingers while the pumps are running, and cannot completely stop the flow of water at a single point. In practice, this doesn't seem to be an issue. Between the soft mattress and foam topper, any firm pressure points are not able to restrict the flow of water in a noticeable way. A thinner walled tube may potentially have this issue however.
 - I expected that the direction of water flow would matter more than it does. For example if the cold water flows in from the head toward the feet, I expected my upper body to feel colder, while the water would be slightly warmed by the time it reached my feet. This is probably theoretically true, but in practice the whole loop feels like a uniform temperature while in use.
 - At some point I'd like to try using an even thinner tube to improve comfort. Possibly using a Y splitter and running multiple loops per side. However a thinner tube might fold down between the foam grid and become insulated from your body. 
 
